@@ -5,8 +5,8 @@ resource "aws_vpc" "ASG01-vpc" {
   enable_dns_hostnames = true
 
   tags = {
-    Name     = "ASG01-vpc"
-    Service  = "VPC"
-    Owner    = "TIQS"
+    Name    = "ASG01-vpc"
+    Service = "VPC"
+    Owner   = "TIQS"
   }
 }
