@@ -25,7 +25,7 @@ echo "
 <html lang="en" class="h-100">
 <head>
 <title>Details for EC2 instance</title>
-<body background=https://img.freepik.com/premium-photo/flag-wallpaper-brazil_670382-35283.jpg>
+<body background=https://brazil-2025.s3.us-east-1.amazonaws.com/brazil-bg.jpg>
 </head>
 <div>
 <font color="ffffff">
@@ -36,12 +36,12 @@ echo "
 <table width=100%>
 <tr>
 <td width=100% align="left">
-<img src="https://www.sanclerfrantz.com.br/extranet/gallery/50.jpg" alt="Samurai Katana" width="40%" height="40%">
+<img src="https://brazil-2025.s3.us-east-1.amazonaws.com/brazil4.jpg">
 </td>
 </tr>
 <tr>
 <td width=100% align="left">
-<img src="https://images3.imgbox.com/41/12/sIUUCRwA_o.jpg" alt="Sexy Brazilian Blonde" width="40%" height="40%">
+<img src="https://brazil-2025.s3.us-east-1.amazonaws.com/brazil2.jpg" width="70%">
 </td>
 </tr>
 </table>
